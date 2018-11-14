@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+/src/main/generated
+.gradle
+.idea
+.classpath
+.project
+.settings
+.yardoc
+.yardopts
+bin
+build
+target
+out
+*.iml
+*.ipr
+*.iws
+test-output
+/src/main/asciidoc/cheatsheet
+Scratch.java
+ScratchTest.java
+test-results
+test-tmp
+*.class
+mods
